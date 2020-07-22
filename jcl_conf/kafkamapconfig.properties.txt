@@ -1,0 +1,8 @@
+#Sun Jul 12 14:18:48 GFT 2020
+auto.offset.reset=earliest
+topic.partitions=1
+bootstrap.servers=200.239.139.23:9092,200.239.139.25:9092,200.239.139.26:9092,200.239.139.27:9092,200.239.139.28:9092,200.239.139.29:9092,200.239.139.32:9092,200.239.139.61:9092
+group.id=jcl-200.239.139.25:9092-bd290652-a7f1-43de-8959-bec14c91e8af
+client.id=jcl-client
+group.id.prefix=jcl.200.239.139.25:9092
+topic.replication.factor=1
